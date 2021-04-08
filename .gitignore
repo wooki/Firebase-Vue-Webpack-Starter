@@ -1,3 +1,6 @@
+# Public folder created by webpack
+public
+
 # Logs
 logs
 *.log
